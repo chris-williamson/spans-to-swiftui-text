@@ -12,7 +12,7 @@ class ExampleData {
                                             SpannedText.Span(range: SpannedText.Range(startIndex: 150, length: 50),
                                                                     attribute: .link),
                                             SpannedText.Span(range: SpannedText.Range(startIndex: 210, length: 15),
-                                                                    attribute: .heading)
+                                                                    attribute: .italic)
 
         ])
 }
